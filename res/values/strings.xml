@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buzz Notifier</string>
+    <string name="app_version">0.1</string>
+    <string name="enter_interval_text">Enter the interval for notification</string>
+    <string name="start_notification_text">Start</string>
+    <string name="stop_notification_text">Stop</string>
+    <string name="interval_input_hint">Interval in seconds</string>
+    <string name="notification_interval_key">notification_interval</string>
+    <string name="clean_shutdown_done_key">clean_shutdown_done</string>
+    <string name="ok">OK</string>
+    <string name="invalid_input_msg">Please enter a valid interval for notification</string>
+    <string name="startup_toast_message">Setting up Buzz Notifier notification</string>
+    <string name="menu_about">About</string>
+    <string name="icon_description">Buzz Notifier icon</string>
+    <string name="title_activity_about">About Buzz Notifier</string>
+    <string name="copyright_text">&#169; 2014 L. Guruprasad</string>
+	<string name="author_website"><a href="http://www.lguruprasad.in/">http://www.lguruprasad.in/</a></string>
+</resources>
